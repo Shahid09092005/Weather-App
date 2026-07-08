@@ -44,7 +44,7 @@ The application allows users to search for any city and get real-time weather in
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com//Django-Weather-App.git
+git clone [https://github.com//Django-Weather-App.git](https://github.com/Shahid09092005/Weather-App.git)
 ```
 
 ### 2. Navigate to Project Directory
